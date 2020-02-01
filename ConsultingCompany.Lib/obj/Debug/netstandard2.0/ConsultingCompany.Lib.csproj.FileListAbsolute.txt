@@ -1,0 +1,36 @@
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.Lib\bin\Debug\netstandard2.0\ConsultingCompany.Lib.deps.json
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.Lib\bin\Debug\netstandard2.0\ConsultingCompany.Lib.dll
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.Lib\bin\Debug\netstandard2.0\ConsultingCompany.Lib.pdb
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.Lib\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.Lib\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.Lib\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.Lib\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.Lib\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.Lib\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.AssemblyInfoInputs.cache
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.AssemblyInfo.cs
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.csproj.CopyComplete
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.dll
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.pdb
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.csprojAssemblyReference.cache
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.Lib\bin\Debug\netstandard2.0\ConsultingCompany.Lib.deps.json
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.Lib\bin\Debug\netstandard2.0\ConsultingCompany.Lib.dll
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.Lib\bin\Debug\netstandard2.0\ConsultingCompany.Lib.pdb
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.Lib\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.Lib\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.Lib\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.Lib\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.Lib\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.Lib\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.csprojAssemblyReference.cache
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.AssemblyInfoInputs.cache
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.AssemblyInfo.cs
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.csproj.CopyComplete
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.dll
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.pdb
+C:\Users\deniz\Desktop\C# projects\ConsultingOrganization dependencyInjection\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.csprojAssemblyReference.cache
+C:\Users\deniz\Desktop\C# projects\ConsultingOrganization dependencyInjection\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\C# projects\ConsultingOrganization dependencyInjection\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.AssemblyInfoInputs.cache
+C:\Users\deniz\Desktop\C# projects\ConsultingOrganization dependencyInjection\ConsultingCompany.Lib\obj\Debug\netstandard2.0\ConsultingCompany.Lib.AssemblyInfo.cs

@@ -1,0 +1,54 @@
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.csprojAssemblyReference.cache
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.AssemblyInfoInputs.cache
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.AssemblyInfo.cs
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\ConsultingCompany.DataStore.deps.json
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\ConsultingCompany.DataStore.dll
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\ConsultingCompany.DataStore.pdb
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\ConsultingCompany.Lib.dll
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\ConsultingCompany.Lib.pdb
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.csproj.CopyComplete
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.dll
+C:\Users\deniz\Desktop\ConsultingOrganization\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.pdb
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\ConsultingCompany.DataStore.deps.json
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\ConsultingCompany.DataStore.dll
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\ConsultingCompany.DataStore.pdb
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\ConsultingCompany.Lib.dll
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\ConsultingCompany.Lib.pdb
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.csprojAssemblyReference.cache
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.AssemblyInfoInputs.cache
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.AssemblyInfo.cs
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.csproj.CopyComplete
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.dll
+C:\Users\deniz\Desktop\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.pdb
+C:\Users\deniz\Desktop\C# projects\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\ConsultingCompany.DataStore.deps.json
+C:\Users\deniz\Desktop\C# projects\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\ConsultingCompany.DataStore.dll
+C:\Users\deniz\Desktop\C# projects\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\ConsultingCompany.DataStore.pdb
+C:\Users\deniz\Desktop\C# projects\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\ConsultingCompany.Lib.dll
+C:\Users\deniz\Desktop\C# projects\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\deniz\Desktop\C# projects\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\deniz\Desktop\C# projects\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\deniz\Desktop\C# projects\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\ConsultingCompany.Lib.pdb
+C:\Users\deniz\Desktop\C# projects\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\deniz\Desktop\C# projects\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\deniz\Desktop\C# projects\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\deniz\Desktop\C# projects\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.csprojAssemblyReference.cache
+C:\Users\deniz\Desktop\C# projects\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\C# projects\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.AssemblyInfoInputs.cache
+C:\Users\deniz\Desktop\C# projects\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.AssemblyInfo.cs
+C:\Users\deniz\Desktop\C# projects\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.csproj.CopyComplete
+C:\Users\deniz\Desktop\C# projects\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.dll
+C:\Users\deniz\Desktop\C# projects\ConsultingOrganization dependencyInjection\ConsultingCompany.DataStore\obj\Debug\netstandard2.0\ConsultingCompany.DataStore.pdb
